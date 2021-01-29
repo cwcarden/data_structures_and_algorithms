@@ -1,8 +1,8 @@
 # Chapter 1 Abstraction and Analysis
 
-##Notes
+## Notes
 
-###Introduction
+### Introduction
 Alan Turing conjectured that any problem solvable with a computer only needs the
 basic statements that all computer languages have: 
 > Decision statements (if)
