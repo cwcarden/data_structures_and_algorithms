@@ -1,6 +1,4 @@
-# Chapter 1 Abstraction and Analysis
-
-## Notes
+# Chapter 1 Abstraction and Analysis Notes
 
 ### Alan Turing 
 He conjectured that any problem solvable with a computer only needs the
@@ -34,3 +32,20 @@ basic statements that all computer languages have:
 > - **implementation independence** - The desirable property.
 > - **RETVAL** - a name used to indicate the value that was just returned by the function.
 
+### Testing Preconditions
+> **Exception Handler** Instead of a program crashing the program transfers control to a special section.
+
+> **Exception objects** In Python run-time errors generate exception objects such as the *ValueError*.
+> - **try**, **except**, and **raise** in Python are used for exception handling.
+
+### Top-Down Design
+> **Top-Down Design** is the direct application of functional abstraction to decompose a large problem into smaller, more manageable components.
+
+### Algorithm Analysis 
+> **Algorithm analysis** allows us to characterize algorithms according to how much time and memory they require to accomplish a task.
+
+### Linear Search
+> **Linear search** is searching through the list of items one by one until the target is found. *Moving linearly through memory*.
+
+### Binary Search
+> **Binary search** for example looking through a sorted list. The basic idea is that we use two variables to keep track of the endpoints of the range in the list where the item could be.
